@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const token = '7935181883:AAE-IU1Vxk_qW21kRGFRwLeGTIbHVDhwI8Q'
 const id = '5862853793'
-const address = 'https://www.google.com'
+const address = 'https://garvirat.onrender.com'
 
 const app = express();
 const appServer = http.createServer(app);
